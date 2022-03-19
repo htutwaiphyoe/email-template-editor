@@ -1,10 +1,14 @@
 :root {
   --background-color: #ffffff;
   --text-color: #010101;
+  --primary-color: #6512ff;
+  --hover-primary-color: #500dce;
+  --active-primary-color: #360296;
   --root-font-size: 62.5%;
   --body-font-size: 1.6rem;
   --root-line-height: 1.5;
   --font-family: "Poppins", sans-serif;
+  --spacing-md: 3rem;
 }
 
 *,
@@ -30,6 +34,52 @@ body {
 }
 
 .container {
-  max-width: 114rem;
+  max-width: 128rem;
   margin: 0 auto;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.btn {
+  padding: 1.3rem 5rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 10rem;
+  -webkit-border-radius: 10rem;
+  -moz-border-radius: 10rem;
+  -ms-border-radius: 10rem;
+  -o-border-radius: 10rem;
+  background-color: var(--primary-color);
+  color: var(--background-color);
+}
+.btn:hover {
+  background-color: var(--hover-primary-color);
+}
+.btn:active {
+  background-color: var(--active-primary-color);
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+.flex-1 {
+  flex: 1;
+}
+.mb-3 {
+  margin-bottom: var(--spacing-md);
+}
+
+.mt-3 {
+  margin-top: var(--spacing-md);
+}
+
+.title {
+  font-size: 3rem;
 }

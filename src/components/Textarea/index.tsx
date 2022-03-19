@@ -1,8 +1,21 @@
 import classes from "./style.module.css";
 
-function Textarea(): JSX.Element {
+type TextareaProps = {
+  value?: string;
+  onChange?: (e: React.ChangeEvent<HTMLTextAreaElement>) => void;
+};
+
+function Textarea({ value, onChange }: TextareaProps): JSX.Element {
   return (
-    <textarea name="" id="" cols={30} rows={30} className={classes.textarea} />
+    <textarea
+      name=""
+      id=""
+      value={value}
+      cols={30}
+      rows={30}
+      className={classes.textarea}
+      onChange={onChange}
+    />
   );
 }
 

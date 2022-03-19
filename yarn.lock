@@ -1854,6 +1854,13 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-email-editor@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@types/react-email-editor/-/react-email-editor-1.1.5.tgz#eb3c08e93b1c718aef90fc34eb900fdddb997eeb"
+  integrity sha512-9H3/IrI3Od2d1mxPE6uF2XM0VW69sbtxrvjzkjMzxz4EGVGJvDCoTOqa2PPEA0sgyPq9a78EZ2nTf/9zwGeaqQ==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react@*", "@types/react@^17.0.20":
   version "17.0.43"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.43.tgz#4adc142887dd4a2601ce730bc56c3436fdb07a55"
@@ -7019,6 +7026,11 @@ react-dom@^18.0.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.21.0"
+
+react-email-editor@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/react-email-editor/-/react-email-editor-1.5.0.tgz#54b1318460bb9c6697321227ca1551bac78ff8a8"
+  integrity sha512-81+tVkLJZUaezXIKZdMAg631mMORaDkqrj0Ud6hHpYtLfdz1v1gFRiAsehvvh44+7J/LmzWacavZ5HtM1qaINw==
 
 react-error-overlay@^6.0.10:
   version "6.0.10"

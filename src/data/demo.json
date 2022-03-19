@@ -1,0 +1,527 @@
+{
+  "counters": {
+    "u_column": 18,
+    "u_row": 15,
+    "u_content_image": 1,
+    "u_content_divider": 4,
+    "u_content_heading": 5,
+    "u_content_text": 9,
+    "u_content_html": 11,
+    "u_content_menu": 1
+  },
+  "body": {
+    "id": "x8fvfEcygF",
+    "rows": [
+      {
+        "id": "Rh3YoehpwT",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "nssxSQkApx",
+            "contents": [
+              {
+                "id": "2c58erxGgE",
+                "type": "divider",
+                "values": {
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#BBBBBB"
+                  },
+                  "textAlign": "center",
+                  "containerPadding": "0px",
+                  "anchor": "",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_divider_2",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px",
+              "border": {},
+              "_meta": { "htmlID": "u_column_1", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_1", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "y2mRfnhsUZ",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "VmvGGhiTeC",
+            "contents": [
+              {
+                "id": "TLa7ZHvc2m",
+                "type": "html",
+                "values": {
+                  "html": "<div></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_4",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": { "htmlID": "u_column_8", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_8", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "_MVmG8wWa5",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "wYxbdSXHc_",
+            "contents": [
+              {
+                "id": "EhrwocRI-8",
+                "type": "image",
+                "values": {
+                  "containerPadding": "10px 20px 10px 10px",
+                  "anchor": "",
+                  "src": {
+                    "url": "https://images.unlayer.com/projects/0/1635392423155-logo_rezeve%20%281%29.png",
+                    "width": 64,
+                    "height": 82
+                  },
+                  "textAlign": "center",
+                  "altText": "",
+                  "action": {
+                    "name": "web",
+                    "values": { "href": "", "target": "_blank" }
+                  },
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_image_1",
+                    "htmlClassNames": "u_content_image"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "tCiAXNGbNv",
+                "type": "divider",
+                "values": {
+                  "width": "100%",
+                  "border": {
+                    "borderTopWidth": "1px",
+                    "borderTopStyle": "solid",
+                    "borderTopColor": "#f3f3f3"
+                  },
+                  "textAlign": "center",
+                  "containerPadding": "10px 44px",
+                  "anchor": "",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "_meta": {
+                    "htmlID": "u_content_divider_3",
+                    "htmlClassNames": "u_content_divider"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": { "htmlID": "u_column_2", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_2", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "dXSNfeuANx",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "KZg7vuBabe",
+            "contents": [
+              {
+                "id": "JtWXdZ6THt",
+                "type": "html",
+                "values": {
+                  "html": "<h1 style=\"color: #1C1E23;\n           text-align: center;\n           font-size: 24px;\n           line-height: 30px\">\n  {{businessName}} has invited you to \n  join Rezeve for Business\n</h1>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px 0px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_6",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "3DEbe8k3pS",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"margin-bottom: 30px\">\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 14px\">\n  Hi {{staffName}}, \n</p>\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 14px\">\n  You have been invited to join Rezeve\n  for Business by {{businessName}} as {{role}}.\n</p>\n<p style=\"font-size: 16px;\n          color: #3C4257;\">\n  <strong>Login Email</strong>: {{email}}\n</p>\n</div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px 0px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_9",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "lZx_tNh0QP",
+                "type": "html",
+                "values": {
+                  "html": "<div style=\"text-align: center\">\n<a href=\"{{url_link}}\" style=\"background-color: #54E73C;\n               display: inline-block;\n               padding: 14px 150px;\n               color: #fff;\n               font-size: 13px;\n               font-weight: 700;\n               border-radius: 100px;\n          \t   text-decoration: none;\">\nSET PASSWORD\n</a>\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin: 12px\">\n  Or you can copy and paste \n  the link below in your browser.\n</p>\n  <a style=\"color: #14B204;\n            font-size: 14px\"\n     href=\"{{link}}\">\n    {{setPasswordLink}}\n  </a>\n  <p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-top: 12px\">\n Thank you\n</p>\n</div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px 0px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_10",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              },
+              {
+                "id": "16mZJFe0WD",
+                "type": "html",
+                "values": {
+                  "html": "\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 20px;\">\n For your security,\n  this link will expire in 1 day.\n</p>\n",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px 0px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_11",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px 44px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": { "htmlID": "u_column_17", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_14", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "Vw1mtci6G2",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "xpamfDDvsU",
+            "contents": [
+              {
+                "id": "ZsYfLQAKH3",
+                "type": "html",
+                "values": {
+                  "html": "<p style=\"text-align: center;\n          font-weight: 700;\n          color: #525F7F; \n          font-size: 13px;\n          text-transform: uppercase;\n          margin-bottom: 12px\">\n   © Rezeve. All rights reserved. \n  powered by <a style=\"color: #525F7F;\"> rezeve</a>\n</p>\n\n<p style=\"text-align: center;\n          font-weight: 500; \n          font-size: 14px;\n          color: #525F7F;\n          margin-bottom: 20px\">\n  If you have any questions please contact us \n  <span style=\"color: #5CCA53\">support@rezeve.com.\n  </span>\n\t<br/>\n  This is an automated email. Please do not reply.\n</p>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_8",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "padding": "0px 44px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": { "htmlID": "u_column_5", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_5", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      },
+      {
+        "id": "8KgSVgFSsE",
+        "cells": [1],
+        "columns": [
+          {
+            "id": "JQcKpOTuKl",
+            "contents": [
+              {
+                "id": "Zvt4LMazFD",
+                "type": "html",
+                "values": {
+                  "html": "<div></div>",
+                  "hideDesktop": false,
+                  "displayCondition": null,
+                  "containerPadding": "10px",
+                  "anchor": "",
+                  "_meta": {
+                    "htmlID": "u_content_html_3",
+                    "htmlClassNames": "u_content_html"
+                  },
+                  "selectable": true,
+                  "draggable": true,
+                  "duplicatable": true,
+                  "deletable": true,
+                  "hideable": true
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "",
+              "padding": "0px",
+              "border": {},
+              "borderRadius": "0px",
+              "_meta": { "htmlID": "u_column_9", "htmlClassNames": "u_column" }
+            }
+          }
+        ],
+        "values": {
+          "displayCondition": null,
+          "columns": false,
+          "backgroundColor": "",
+          "columnsBackgroundColor": "",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": false,
+            "center": true,
+            "cover": false
+          },
+          "padding": "0px",
+          "anchor": "",
+          "hideDesktop": false,
+          "_meta": { "htmlID": "u_row_9", "htmlClassNames": "u_row" },
+          "selectable": true,
+          "draggable": true,
+          "duplicatable": true,
+          "deletable": true,
+          "hideable": true
+        }
+      }
+    ],
+    "values": {
+      "popupPosition": "center",
+      "popupWidth": "600px",
+      "popupHeight": "auto",
+      "borderRadius": "10px",
+      "contentAlign": "center",
+      "contentVerticalAlign": "center",
+      "contentWidth": "640px",
+      "fontFamily": { "label": "Arial", "value": "arial,helvetica,sans-serif" },
+      "textColor": "#000000",
+      "popupBackgroundColor": "#FFFFFF",
+      "popupBackgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": true
+      },
+      "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+      "popupCloseButton_position": "top-right",
+      "popupCloseButton_backgroundColor": "#DDDDDD",
+      "popupCloseButton_iconColor": "#000000",
+      "popupCloseButton_borderRadius": "0px",
+      "popupCloseButton_margin": "0px",
+      "popupCloseButton_action": {
+        "name": "close_popup",
+        "attrs": {
+          "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+        }
+      },
+      "backgroundColor": "#ced4d9",
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": true,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkHoverColor": "#0000ee",
+        "linkUnderline": true,
+        "linkHoverUnderline": true
+      },
+      "_meta": { "htmlID": "u_body", "htmlClassNames": "u_body" }
+    }
+  },
+  "schemaVersion": 8
+}
