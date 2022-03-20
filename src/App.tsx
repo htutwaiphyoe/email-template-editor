@@ -1,10 +1,11 @@
 import EmailEditor from "react-email-editor";
 import Textarea from "components/Textarea";
 import React, { useRef, useState } from "react";
+import data from "data/demo.json";
 
 function App() {
   const editorRef = useRef<any>(null);
-  const [inputFormat, setInputFormat] = useState("");
+  const [inputFormat, setInputFormat] = useState(data);
   const [jsonFormat, setJsonFormat] = useState("");
   const [htmlFormat, setHtmlFormat] = useState("");
 

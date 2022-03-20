@@ -151,9 +151,9 @@
                   "containerPadding": "10px 20px 10px 10px",
                   "anchor": "",
                   "src": {
-                    "url": "https://images.unlayer.com/projects/0/1635392423155-logo_rezeve%20%281%29.png",
-                    "width": 64,
-                    "height": 82
+                    "url": "https://www.freebsdnews.com/wp-content/uploads/m0n0wall_logo_100x100.jpg",
+                    "width": 100,
+                    "height": 100
                   },
                   "textAlign": "center",
                   "altText": "",
@@ -244,7 +244,7 @@
                 "id": "JtWXdZ6THt",
                 "type": "html",
                 "values": {
-                  "html": "<h1 style=\"color: #1C1E23;\n           text-align: center;\n           font-size: 24px;\n           line-height: 30px\">\n  {{businessName}} has invited you to \n  join Rezeve for Business\n</h1>",
+                  "html": "<h1 style=\"color: #1C1E23;\n           text-align: center;\n           font-size: 24px;\n           line-height: 30px\">\n Some heading text\n</h1>",
                   "hideDesktop": false,
                   "displayCondition": null,
                   "containerPadding": "10px 0px",
@@ -264,7 +264,7 @@
                 "id": "3DEbe8k3pS",
                 "type": "html",
                 "values": {
-                  "html": "<div style=\"margin-bottom: 30px\">\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 14px\">\n  Hi {{staffName}}, \n</p>\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 14px\">\n  You have been invited to join Rezeve\n  for Business by {{businessName}} as {{role}}.\n</p>\n<p style=\"font-size: 16px;\n          color: #3C4257;\">\n  <strong>Login Email</strong>: {{email}}\n</p>\n</div>",
+                  "html": "<div style=\"margin-bottom: 30px\">\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 14px\">\n  Some description text\n</p>\n\n</div>",
                   "hideDesktop": false,
                   "displayCondition": null,
                   "containerPadding": "10px 0px",
@@ -284,33 +284,13 @@
                 "id": "lZx_tNh0QP",
                 "type": "html",
                 "values": {
-                  "html": "<div style=\"text-align: center\">\n<a href=\"{{url_link}}\" style=\"background-color: #54E73C;\n               display: inline-block;\n               padding: 14px 150px;\n               color: #fff;\n               font-size: 13px;\n               font-weight: 700;\n               border-radius: 100px;\n          \t   text-decoration: none;\">\nSET PASSWORD\n</a>\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin: 12px\">\n  Or you can copy and paste \n  the link below in your browser.\n</p>\n  <a style=\"color: #14B204;\n            font-size: 14px\"\n     href=\"{{link}}\">\n    {{setPasswordLink}}\n  </a>\n  <p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-top: 12px\">\n Thank you\n</p>\n</div>",
+                  "html": "<div style=\"text-align: center\">\n<a href=\"{{url_link}}\" style=\"background-color: #54E73C;\n               display: inline-block;\n               padding: 14px 150px;\n               color: #fff;\n               font-size: 13px;\n               font-weight: 700;\n               border-radius: 100px;\n          \t   text-decoration: none;\">\nSome button\n</a>\n\n\n</div>\n<div style=\"text-align: center;\n            margin-top: 30px\">\n    <a style=\"color: #14B204;\n            font-size: 14px;\n             \"\n     href=\"{{link}}\">\n    {{somelink}}\n  </a>\n</div>",
                   "hideDesktop": false,
                   "displayCondition": null,
                   "containerPadding": "10px 0px",
                   "anchor": "",
                   "_meta": {
                     "htmlID": "u_content_html_10",
-                    "htmlClassNames": "u_content_html"
-                  },
-                  "selectable": true,
-                  "draggable": true,
-                  "duplicatable": true,
-                  "deletable": true,
-                  "hideable": true
-                }
-              },
-              {
-                "id": "16mZJFe0WD",
-                "type": "html",
-                "values": {
-                  "html": "\n<p style=\"font-size: 16px;\n          color: #3C4257;\n          margin-bottom: 20px;\">\n For your security,\n  this link will expire in 1 day.\n</p>\n",
-                  "hideDesktop": false,
-                  "displayCondition": null,
-                  "containerPadding": "10px 0px",
-                  "anchor": "",
-                  "_meta": {
-                    "htmlID": "u_content_html_11",
                     "htmlClassNames": "u_content_html"
                   },
                   "selectable": true,
@@ -364,7 +344,7 @@
                 "id": "ZsYfLQAKH3",
                 "type": "html",
                 "values": {
-                  "html": "<p style=\"text-align: center;\n          font-weight: 700;\n          color: #525F7F; \n          font-size: 13px;\n          text-transform: uppercase;\n          margin-bottom: 12px\">\n   © Rezeve. All rights reserved. \n  powered by <a style=\"color: #525F7F;\"> rezeve</a>\n</p>\n\n<p style=\"text-align: center;\n          font-weight: 500; \n          font-size: 14px;\n          color: #525F7F;\n          margin-bottom: 20px\">\n  If you have any questions please contact us \n  <span style=\"color: #5CCA53\">support@rezeve.com.\n  </span>\n\t<br/>\n  This is an automated email. Please do not reply.\n</p>",
+                  "html": "<p style=\"text-align: center;\n          font-weight: 700;\n          color: #525F7F; \n          font-size: 13px;\n          text-transform: uppercase;\n          margin-bottom: 12px\">\nSome company\n</p>\n\n<p style=\"text-align: center;\n          font-weight: 500; \n          font-size: 14px;\n          color: #525F7F;\n          margin-bottom: 20px\">\n  If you have any questions please contact us \n  <span style=\"color: #5CCA53\">support@company.com.\n  </span>\n\t<br/>\n  This is an automated email. Please do not reply.\n</p>",
                   "hideDesktop": false,
                   "displayCondition": null,
                   "containerPadding": "10px",
