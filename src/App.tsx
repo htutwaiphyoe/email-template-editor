@@ -1,5 +1,16 @@
+import Textarea from "components/Textarea";
+
 function App() {
-  return <div className="App">Hello, Maii</div>;
+  return (
+    <main>
+      <div className="container">
+        <Textarea />
+      </div>
+      <div className="container">
+        <Textarea />
+      </div>
+    </main>
+  );
 }
 
 export default App;

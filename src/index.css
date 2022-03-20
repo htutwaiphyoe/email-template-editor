@@ -28,3 +28,8 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
 }
+
+.container {
+  max-width: 114rem;
+  margin: 0 auto;
+}
